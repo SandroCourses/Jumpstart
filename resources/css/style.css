@@ -3,6 +3,10 @@ html {
   font-size: 14px;
 }
 
+.navbar {
+  border: 0;
+}
+
 .navbar-default .navbar-nav a {
   font-size: 1.1rem;
   font-weight: bold;
